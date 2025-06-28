@@ -1,10 +1,10 @@
 > 🏆 **Gold Medal Winner!**
 >
-> This project was awarded the **Gold Medal** in the Algorithmic Trading event at the **Inter IIT Tech Meet 13.0**.
+> This project was awarded the **Gold Medal** in the Quant Track of the **Inter IIT Tech Meet 13.0** held at **IIT Bombay**.
 
-# Algorithmic Trading Strategies for BTC & ETH
+# Curating Alphas for the ETH/USDT and the BTC/USDT Markets
 
-This repository contains the implementation of two distinct algorithmic trading strategies developed for the BTC/USDT and ETH/USDT cryptocurrency pairs. This project was created as the "Final Submission Report" by **Team 67** for the **Inter IIT Tech Meet 13.0**, with the problem statement provided by **Zelta Automations** and **untrade**.
+This repository contains the implementation of two distinct algorithmic trading strategies developed for the BTC/USDT and ETH/USDT cryptocurrency pairs. This project was created by **IIT Guwahati** for the **Inter IIT Tech Meet 13.0**, with the problem statement provided by **Zelta Automations and Untrade**.
 
 The strategies are backtested on historical hourly data from **January 1, 2020, to December 31, 2023**.
 
