@@ -1,1 +1,1 @@
-# Curating-Alphas-on-ETH-USDT-Crypto-Market-
+# Curating Alphas on ETH USDT Crypto Market
